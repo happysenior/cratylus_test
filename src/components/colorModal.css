@@ -1,0 +1,27 @@
+
+.color-body {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: flex-start;
+    text-align: center;
+    color: white;
+}
+
+.color-group {
+    width: 50%;
+}
+
+.color-div {
+    width:25px;
+    height: 25px;
+    margin: 10px auto;
+    border: 1px soild;
+}
+
+.default {
+    width:35px;
+    height: 35px;
+    margin-bottom: 20px;
+}
+
